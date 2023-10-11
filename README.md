@@ -1,6 +1,9 @@
 # MSCN_missing
 Model-based clustering with missing data using the MSCN
 
+Reference: H. Tong and, C. Tortora. Missing values and directional outlier detection 
+in model-based clustering. Journal of Classification, 2023. 
+
 Abstract
 Robust model-based clustering tackles the task of uncovering heterogeneity in data
 sets characterized by outliers. However, the use of many methods in this area becomes
