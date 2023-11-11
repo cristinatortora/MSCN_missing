@@ -19,3 +19,6 @@ the inversion formula for the characteristic function.
 
 - mscnm contains the code
 - Example_MSCN shows an example on a simulated data set
+
+This material is based upon work supported by the National Science Foundation under
+Grant No. 2209974 (Tortora).
